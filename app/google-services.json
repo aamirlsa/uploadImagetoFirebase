@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949858633080",
+    "project_id": "uploadimagetofirebase-edc59",
+    "storage_bucket": "uploadimagetofirebase-edc59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949858633080:android:cb1e98866e02436bf6b48d",
+        "android_client_info": {
+          "package_name": "com.asma.uploadimagetofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949858633080-8nhtdi501r6n8mqq5l39osavmtmi1m3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYYb1_PLx3rT_56Ym7_pg0idnBmvHm2N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949858633080-8nhtdi501r6n8mqq5l39osavmtmi1m3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
